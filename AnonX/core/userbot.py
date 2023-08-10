@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("DevilsHeavenMF")
-                await self.one.join_chat("FallenAssociation")
+                await self.one.join_chat("yaaro_ki_mehfil_group")
+                await self.one.join_chat("official_mr_king")
             except:
                 pass
             assistants.append(1)
@@ -75,8 +75,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("DevilsHeavenMF")
-                await self.two.join_chat("FallenAssociation")
+                await self.two.join_chat("yaaro_ki_mehfil_group")
+                await self.two.join_chat("official_mr_king")
             except:
                 pass
             assistants.append(2)
@@ -102,8 +102,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("DevilsHeavenMF")
-                await self.three.join_chat("FallenAssociation")
+                await self.three.join_chat("yaaro_ki_mehfil_group")
+                await self.three.join_chat("official_mr_king")
             except:
                 pass
             assistants.append(3)
@@ -129,8 +129,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("DevilsHeavenMF")
-                await self.four.join_chat("FallenAssociation")
+                await self.four.join_chat("yaaro_ki_mehfil_group")
+                await self.four.join_chat("official_mr_king")
             except:
                 pass
             assistants.append(4)
@@ -156,8 +156,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("DevilsHeavenMF")
-                await self.five.join_chat("FallenAssociation")
+                await self.five.join_chat("yaaro_ki_mehfil_group")
+                await self.five.join_chat("official_mr_king")
             except:
                 pass
             assistants.append(5)

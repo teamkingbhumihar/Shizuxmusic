@@ -41,10 +41,10 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="❣ sᴜᴩᴩᴏʀᴛ ❣", url=config.SUPPORT_GROUP
+                text="❣ sᴜᴩᴩᴏʀᴛ ❣", url="https://t.me/yaaro_ki_mehfil_group"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴍᴀɪɴᴛᴀɪɴᴇʀ 🥀", user_id=OWNER
+                text="🥀 ᴍᴀɪɴᴛᴀɪɴᴇʀ 🥀", user_id="6481280351"
             )
         ],
         [

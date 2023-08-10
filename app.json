@@ -1,7 +1,7 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+    "name": "𝔨𝔦𝔫𝔤 𝔵 𝔪𝔲𝔦𝔰𝔠",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
+    "logo": "https://graph.org/file/237f17aa8fc02f26a888c.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -33,13 +33,13 @@
         "required": true
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "description": "A name for your Music Bot. Nikal lawde",
+        "value": "𝕜𝕚𝕟𝕘 𝕩 𝕞𝕦𝕤𝕚𝕔",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6481280351",
         "required": true
       },
       "STRING_SESSION": {
@@ -58,7 +58,7 @@
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. 𝐢𝐭𝐧𝐚 𝐛𝐡𝐢 𝐧𝐚𝐡𝐢 𝐩𝐭𝐚 𝐭𝐨𝐡 𝐦𝐚𝐭 𝐛𝐚𝐧𝐚𝐨 (𝐜𝐡𝐚𝐥𝐞 𝐣𝐚𝐚 𝐛𝐬𝐝𝐤).",
         "value": "",
         "required": true
       }

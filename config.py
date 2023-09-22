@@ -16,7 +16,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝔨𝔦𝔫𝔤 𝔵 𝔪𝔲𝔰𝔦𝔠")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "6481280351").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6298886738").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Mrsandeeprai/kingXMu
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/official_mr_king")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/yaaro_ki_mehfil_group")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "kuch bhi daal lo bsdk")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/mr_sanatani_ladka")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -76,11 +76,11 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/56d1760224589ee370186.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/21b1e580ea34ed5faec3e.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/3d21b4b24d26c070b1b1f.png",
+    "https://graph.org/file/50f41004668357c68914b.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
@@ -130,9 +130,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://graph.org/file/f2cddeeba9571988c22c9.jpg"
+            PING_IMG_URL = "https://graph.org/file/50f41004668357c68914b.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://graph.org/file/f2cddeeba9571988c22c9.jpg"
+            START_IMG_URL = "https://graph.org/file/21b1e580ea34ed5faec3e.jpg"

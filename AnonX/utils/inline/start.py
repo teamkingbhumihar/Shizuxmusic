@@ -41,15 +41,15 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="❣ sᴜᴩᴩᴏʀᴛ ❣", url="https://t.me/yaaro_ki_mehfil_group"
+                text="❣ sᴜᴩᴩᴏʀᴛ ❣", url="https://t.me/mr_sanatani_ladka"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴍᴀɪɴᴛᴀɪɴᴇʀ 🥀", user_id="6481280351"
+                text="🥀 ᴍᴀɪɴᴛᴀɪɴᴇʀ 🥀", user_id="6298886738"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✨ sᴏᴜʀᴄᴇ ✨", url="https://t.me/yaaro_ki_mehfil_group"
+                text="✨ sᴏᴜʀᴄᴇ ✨", url="https://t.me/mr_sanatani_ladka"
             )
         ],
      ]

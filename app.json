@@ -1,5 +1,5 @@
 {
-    "name": "𝔨𝔦𝔫𝔤 𝔵 𝔪𝔲𝔦𝔰𝔠",
+    "name": "missbhumihar music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/237f17aa8fc02f26a888c.jpg",
     "keywords": [
@@ -34,12 +34,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Nikal lawde",
-        "value": "𝕜𝕚𝕟𝕘 𝕩 𝕞𝕦𝕤𝕚𝕔",
+        "value": "missbhumihar 𝕞𝕦𝕤𝕚𝕔",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6481280351",
+        "value": "6298886738",
         "required": true
       },
       "STRING_SESSION": {
